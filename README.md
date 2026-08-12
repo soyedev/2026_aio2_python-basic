@@ -86,4 +86,4 @@ LLM, RAG, AI Agent, MCP(Model Context Protocol), AI Orchestration 분야를 중�
 ## Contact
 
 - GitHub: https://github.com/soyedev
-- Email: soyeaget@gmail.com
+- Email: soyeagent@gmail.com
