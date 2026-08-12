@@ -1,42 +1,93 @@
 # 웹 포트폴리오
 
-안녕하세요! 웹 개발자를 꿈꾸는 저의 포트폴리오 페이지에 오신 것을 환영합니다.
+안녕하세요!  
+
+웹 개발을 공부하며 단순히 기능을 구현하는 것에 그치지 않고, 왜 이렇게 구현하는지 이해하고 유지보수하기 쉬운 코드를 작성하는 *을 중요하게 생각합니다.
+
+새로운 기술을 배우는 것을 즐기며, 다양한 프로젝트를 통해 문제를 해결하는 경험을 쌓아가고 있습니다.
+
+---
 
 ## 🎯 About Me
 
-웹 개발에 대한 열정과 창의성을 바탕으로 사용자 중심의 웹 서비스를 구현하는 것을 목표로 하고 있습니다.
+- 웹 개발에 관심을 가지고 꾸준히 학습하고 있습니다.
+- 새로운 기술을 배우고 직접 프로젝트에 적용하며 성장하는 것을 좋아합니다.
+- Git과 GitHub를 활용한 버전 관리와 협업 방법을 익히고 있습니다.
+- 사용자에게 더 나은 경험을 제공하는 서비스를 만드는 개발자가 되는 것이 목표입니다.
+
+---
 
 ## 💻 기술 스택
 
-- Frontend: HTML5, CSS3, JavaScript, React
-- Backend: Node.js, Express
-- Database: MongoDB, MySQL
-- Version Control: Git, GitHub
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+
+### Backend
+- Node.js
+- Express
+
+### Database
+- MySQL
+- MongoDB
+
+### Version Control
+- Git
+- GitHub
+
+### Tools
+- Visual Studio Code
+- Postman
+- Figma
+
+---
 
 ## 🚀 프로젝트
 
-- 쇼핑몰 웹사이트
-    
-    - React와 Node.js를 활용한 풀스택 프로젝트
-    - 사용자 인증, 상품 관리, 장바구니 기능 구현
-    - 반응형 디자인 적용
-    
-- 일정 관리 앱
-    
-    - React와 MongoDB를 이용한 CRUD 기능 구현
-    - 실시간 데이터 업데이트
-    - 사용자 친화적 UI/UX 디자인
-    
+### 🛒 쇼핑몰 웹사이트
+
+React와 Node.js를 활용하여 구현한 풀스택 웹 프로젝트입니다.
+
+**주요 기능**
+
+- 회원가입 및 로그인
+- 상품 관리(CRUD)
+- 장바구니
+- 주문 기능
+- 반응형 웹 디자인
+
+---
+
+### 📅 일정 관리 웹 애플리케이션
+
+사용자가 일정을 효율적으로 관리할 수 있도록 제작한 웹 서비스입니다.
+
+**주요 기능**
+
+- 일정 등록, 수정, 삭제
+- 일정 검색
+- 카테고리 관리
+- 사용자 친화적인 UI 구현
+
+---
 
 ## 📚 교육
 
 - 컴퓨터공학 전공
 - 웹 개발 부트캠프 수료
 
-## 📞 연락처
+---
 
-- 이메일: [example@email.com](mailto:example@email.com)
-- GitHub: [github.com/username](http://github.com/username)
-- LinkedIn: [linkedin.com/in/username](http://linkedin.com/in/username)
+## 📞 Contact
 
-함께 일하고 싶으시다면 언제든 연락 주세요!
+- Email : example@email.com
+- GitHub : https://github.com/username
+- Portfolio : https://username.github.io
+
+---
+
+감사합니다.
+
+배움을 멈추지 않고 꾸준히 성장하며, 사용자와 팀 모두에게 도움이 되는 개발자가 되겠습니다.
