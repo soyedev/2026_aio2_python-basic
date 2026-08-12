@@ -1,93 +1,89 @@
-# 웹 포트폴리오
+# Soye
 
-안녕하세요!  
+Backend와 AI Engineering을 공부하고 있는 개발자입니다.
 
-웹 개발을 공부하며 단순히 기능을 구현하는 것에 그치지 않고, 왜 이렇게 구현하는지 이해하고 유지보수하기 쉬운 코드를 작성하는 것을 중요하게 생각합니다.
-
-새로운 기술을 배우는 것을 즐기며, 다양한 프로젝트를 통해 문제를 해결하는 경험을 쌓아가고 있습니다.
-
----
-
-## 🎯 About Me
-
-- 웹 개발에 관심을 가지고 꾸준히 학습하고 있습니다.
-- 새로운 기술을 배우고 직접 프로젝트에 적용하며 성장하는 것을 좋아합니다.
-- Git과 GitHub를 활용한 버전 관리와 협업 방법을 익히고 있습니다.
-- 사용자에게 더 나은 경험을 제공하는 서비스를 만드는 개발자가 되는 것이 목표입니다.
+현재 **Multi-Agent AI Orchestration** 과정을 수강하며 Python을 기반으로 백엔드와 AI 시스템을 학습하고 있습니다.  
+LLM, RAG, AI Agent, MCP(Model Context Protocol), AI Orchestration 분야를 중심으로 실습과 프로젝트를 진행하며 꾸준히 성장하고 있습니다.
 
 ---
 
-## 💻 기술 스택
+## About
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React
+- Python 기반 백엔드와 AI 시스템 개발을 학습하고 있습니다.
+- LLM과 Multi-Agent AI Orchestration에 관심을 가지고 있습니다.
+- Git과 GitHub를 활용한 버전 관리와 협업을 학습하고 있습니다.
+- 단순히 코드를 작성하는 것이 아니라, 원리를 이해하고 문제를 해결하는 개발을 지향합니다.
+- 학습한 내용을 GitHub에 꾸준히 기록하며 성장하고 있습니다.
+
+---
+
+## Current Focus
+
+- Python
+- Git & GitHub
+- Backend Development
+- SQL
+- FastAPI
+- LLM Engineering
+- AI Agent
+- Multi-Agent AI Orchestration
+- MCP (Model Context Protocol)
+
+---
+
+## Tech Stack
+
+### Language
+
+- Python
+- JavaScript (Learning)
 
 ### Backend
-- Node.js
-- Express
+
+- FastAPI (Learning)
+- Flask (Learning)
 
 ### Database
-- MySQL
-- MongoDB
 
-### Version Control
-- Git
-- GitHub
+- MySQL
+- SQLite
+
+### AI
+
+- OpenAI API
+- LangChain
+- LangGraph (Learning)
+- LlamaIndex (Learning)
 
 ### Tools
-- Visual Studio Code
-- Postman
-- Figma
+
+- Git
+- GitHub
+- VS Code
 
 ---
 
-## 🚀 프로젝트
+## Projects
 
-### 🛒 쇼핑몰 웹사이트
-
-React와 Node.js를 활용하여 구현한 풀스택 웹 프로젝트입니다.
-
-**주요 기능**
-
-- 회원가입 및 로그인
-- 상품 관리(CRUD)
-- 장바구니
-- 주문 기능
-- 반응형 웹 디자인
+- Python Practice
+- Git & GitHub Collaboration Practice
+- Backend Practice
+- AI Agent Projects (Coming Soon)
+- Multi-Agent Projects (Coming Soon)
 
 ---
 
-### 📅 일정 관리 웹 애플리케이션
+## Goals
 
-사용자가 일정을 효율적으로 관리할 수 있도록 제작한 웹 서비스입니다.
-
-**주요 기능**
-
-- 일정 등록, 수정, 삭제
-- 일정 검색
-- 카테고리 관리
-- 사용자 친화적인 UI 구현
+- Build AI-powered applications using LLMs.
+- Develop Multi-Agent systems for real-world problems.
+- Design scalable backend services.
+- Contribute to open-source AI projects.
+- Continue learning and sharing knowledge through GitHub.
 
 ---
 
-## 📚 교육
+## Contact
 
-- 컴퓨터공학 전공
-- 웹 개발 부트캠프 수료
-
----
-
-## 📞 Contact
-
-- Email : example@email.com
-- GitHub : https://github.com/username
-- Portfolio : https://username.github.io
-
----
-
-감사합니다.
-
-배움을 멈추지 않고 꾸준히 성장하며, 사용자와 팀 모두에게 도움이 되는 개발자가 되겠습니다.
+- GitHub: https://github.com/soyedev
+- Email: soyeaget@gmail.com
